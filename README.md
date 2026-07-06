@@ -24,4 +24,7 @@ A fully responsive Amazon homepage clone built using HTML, CSS, and JavaScript.
 - 3 columns (Tablet)
 - 2 columns (Mobile)
 
+- <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/51721ac2-7146-4114-bf59-dfe34b453800" />
+
+
 
